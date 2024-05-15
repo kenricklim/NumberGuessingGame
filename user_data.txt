@@ -1,0 +1,6 @@
+Ken,6,a
+BRY,8,a
+GOJO,8,a
+aa,11,a
+gg,3,a
+KENN,19,c
